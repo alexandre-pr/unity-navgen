@@ -6,7 +6,7 @@
   "description": "Tools for working with NavMeshComponents and generating navmesh: link generation, mesh cleanup, etc",
   "keywords": [ "navmesh", "editor" ],
   "category": "navigation",
-  "dependencies": {},
+  "dependencies": {"com.unity.ai.navigation": "1.0.0"},
   "samples": [
   ]
 }
